@@ -3,3 +3,4 @@ Training data is pairs of two sentences (consisting of a premise and a hypothesi
 ![language_train_pie (1)](https://user-images.githubusercontent.com/78239454/129109653-7c6b5f5a-ef0c-4d9e-92af-beb32c7982c5.png)
 ![_plotly_label_pie (1)](https://user-images.githubusercontent.com/78239454/129109690-f8cd4b05-dd73-4c16-8128-bd3f7bb8fd4d.png)
 ![_language_label_count (1)](https://user-images.githubusercontent.com/78239454/129109692-b05b7c29-5834-49ad-adb5-04cd0d3ef77e.png)
+![model_accuracy1](https://user-images.githubusercontent.com/78239454/129110053-fb67ffed-537b-4214-ad6b-d42acbe42699.png)
