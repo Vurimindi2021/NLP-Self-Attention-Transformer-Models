@@ -5,7 +5,7 @@ Training data is pairs of two sentences (consisting of a premise and a hypothesi
 ![model_accuracy1](https://user-images.githubusercontent.com/78239454/129111082-5653a210-10ea-466c-b592-72adbdcad1a1.png)
 
 ## XLM-RoBERTa-Large Confusion Matrix 
-![confusion_matrix](https://user-images.githubusercontent.com/78239454/129111867-40e9354e-3053-4d04-b425-777ef1ab977b.png)
+
 
 ## Language distribution in training data 
 ![language_train_pie (1)](https://user-images.githubusercontent.com/78239454/129109653-7c6b5f5a-ef0c-4d9e-92af-beb32c7982c5.png)
