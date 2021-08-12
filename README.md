@@ -6,10 +6,12 @@
 Training data is pairs of two sentences (consisting of a premise and a hypothesis) classified into three categories Entailment, Neutral or Contradiction. Training data contains premise hypothesis pairs in fifteen different languages, including: Arabic, Bulgarian, Chinese, German, Greek, English, Spanish, French, Hindi, Russian, Swahili, Thai, Turkish, Urdu, and Vietnamese is avaiable at: https://www.kaggle.com/c/contradictory-my-dear-watson/data 
 
 # WordCloud [premise] Frequency of top 500 words in Training Data
-![wordcloud_premise](https://user-images.githubusercontent.com/78239454/129213813-bb9f82bb-179b-4301-a874-87943a1346e1.png)
+![wordcloud_hypothesis](https://user-images.githubusercontent.com/78239454/129264437-dc6c235a-c26b-4e1f-b6ab-7a9eaa219f5f.png)
+
 
 # WordCloud [hypothesis] Frequency of top 500 words in Training Data
-![wordcloud_hypothesis](https://user-images.githubusercontent.com/78239454/129213896-e3d3ab5a-e8db-4020-a891-ff54913e52d3.png)
+![wordcloud_premise](https://user-images.githubusercontent.com/78239454/129264484-458059fc-acc9-42b8-ae6d-2d97d978ce00.png)
+
 
 # Length of premise hypothesis pairs in Training Data
 ![PHsentence Length](https://user-images.githubusercontent.com/78239454/129214303-2d116d02-adf7-4004-be52-8ce9e4288005.png)
