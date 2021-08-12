@@ -29,8 +29,5 @@ Training data is pairs of two sentences (consisting of a premise and a hypothesi
 # XLM-RoBERTa-Large Confusion Matrix 
 ![English_CM_XLM_RoBERTa_Large_Aug_Eng](https://user-images.githubusercontent.com/78239454/129112239-13f96343-2d90-4ffe-a1c8-49072fb1df79.png)
 
-
-
-
-
-
+# Conclusion
+In conclusion XLM-RoBERTa-Large model performed better on English. The accuracies for low resource languages is unsatisfactory. In future, to make this model better I will need to develop more complex Self-Attention Transformer models and see if there are any more hyperparameters that can be tweaked for better performance. So work still in progress.
