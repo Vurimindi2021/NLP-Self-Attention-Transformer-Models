@@ -1,4 +1,4 @@
-### Detecting Contradiction and Entailment In Multilingual Text Using Self-Attention Transformer Models - BERT, DistilBERT and RoBERTa
+## Detecting Contradiction and Entailment In Multilingual Text Using Self-Attention Transformer Models - BERT, DistilBERT and RoBERTa
 
 # Impetus - Saving Endangered Languages via AI & NLP/NLI
 Governments can monitorer demographic and political processes of marginalized sections of society. 
