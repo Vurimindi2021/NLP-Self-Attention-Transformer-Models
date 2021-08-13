@@ -1,9 +1,11 @@
-## Impetus - Saving Endangered Languages via AI & NLP/NLI
-  Governments can monitorer demographic and political processes of marginalized sections of society. 
+## Detecting Contradiction and Entailment In Multilingual Text Using Self-Attention Transformer Models - BERT, DistilBERT and RoBERTa
+
+# Impetus - Saving Endangered Languages via AI & NLP/NLI
+Governments can monitorer demographic and political processes of marginalized sections of society. 
 ![people-of-many-ethnicities-1600x900](https://user-images.githubusercontent.com/78239454/129263372-0b241001-2913-4db7-a7da-67608e0d0bbb.jpg)
 
-# Detecting Contradiction and Entailment In Multilingual Text Using Self-Attention Transformer Models - BERT, DistilBERT and RoBERTa
-Training data is pairs of two sentences (consisting of a premise and a hypothesis) classified into three categories Entailment, Neutral or Contradiction. Training data contains premise hypothesis pairs in fifteen different languages, including: Arabic, Bulgarian, Chinese, German, Greek, English, Spanish, French, Hindi, Russian, Swahili, Thai, Turkish, Urdu, and Vietnamese is avaiable at: https://www.kaggle.com/c/contradictory-my-dear-watson/data 
+# Training data is pairs of two sentences (consisting of a premise and a hypothesis) classified into three categories Entailment, Neutral or Contradiction. 
+Training data contains premise hypothesis pairs in fifteen different languages, including: Arabic, Bulgarian, Chinese, German, Greek, English, Spanish, French, Hindi, Russian, Swahili, Thai, Turkish, Urdu, and Vietnamese is avaiable at: https://www.kaggle.com/c/contradictory-my-dear-watson/data 
 
 ![wordcloud_hypothesis](https://user-images.githubusercontent.com/78239454/129264437-dc6c235a-c26b-4e1f-b6ab-7a9eaa219f5f.png)
 
